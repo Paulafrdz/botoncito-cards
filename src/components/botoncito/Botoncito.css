@@ -1,0 +1,12 @@
+.botoncito {
+  padding: 10px 20px;
+  background-color: #8bf3c7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.botoncito.active{
+  background-color: rgb(250, 143, 230);
+}

@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+  background-color: #F9F9F9;
+  padding: 2rem;
+  color: #333;
+}
+
+.botoncito{
+  margin: 5px;
+}
+
+.card{
+  margin: 15px;
+}
